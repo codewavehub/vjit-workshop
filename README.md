@@ -1,3 +1,3 @@
-# vjit-workshop
+# lords-workshop
 
 good
